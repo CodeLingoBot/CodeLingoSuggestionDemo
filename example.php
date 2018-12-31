@@ -1,6 +1,6 @@
 <?php
 
-// helloWorld is a function that does stuff 
+// helloWorld your comment
 function helloWorld() {
     print "hello world!";
 }
